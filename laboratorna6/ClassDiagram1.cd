@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="laboratorna6.fMain">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggEAECAAAAQAoMeAEF4CQCAAoAACAQAAAABAAgI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laboratorna6.fRates">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIACAAACAAABAAEECAQAACAAAYAAAAAGAAAYEAAAA=</HashCode>
+      <FileName>fRates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laboratorna6.fRequests">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAAAAACAAAgCAAgAAAAAQAAAAAAAIAA=</HashCode>
+      <FileName>fRequests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laboratorna6.Rates">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAkAABAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laboratorna6.RequestModeling">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>RequestModeling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laboratorna6.RequestPayments">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>RequestPayments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laboratorna6.RequestWins">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAQAAABAAAAACAAQQEAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>RequestWins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

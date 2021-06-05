@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\bin\Debug\laboratorna6.exe.config
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\bin\Debug\laboratorna6.exe
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\bin\Debug\laboratorna6.pdb
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.fMain.resources
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.Properties.Resources.resources
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.exe
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.pdb
+C:\Users\Admin\source\repos\laboratorna6\laboratorna6\obj\Debug\laboratorna6.fTablet.resources
